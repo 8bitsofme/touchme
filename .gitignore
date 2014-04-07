@@ -1,0 +1,15 @@
+*.hex
+*.eep
+*.obj
+*.cof
+*.elf
+*.map
+*.obj
+*.a90
+*.sym
+*.lnk
+*.lss
+*.o
+*.s
+*.d
+*~
